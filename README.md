@@ -14,3 +14,5 @@ import cv2
  from datetime import datetime
 
  import serial
+
+Please do refer the documentation for furthuir clarifications [Document](https://github.com/krishna-amal/Python-Arduino-interface/blob/eda6c64aad3b7cd1598e62779bb40bde3f6e87df/face%20recognition%20motor%20controller.pdf)
